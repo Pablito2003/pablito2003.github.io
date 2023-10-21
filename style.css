@@ -1,0 +1,35 @@
+form{
+    background-color: aqua;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+}
+
+.inserName{
+    margin: 10px;
+
+}
+
+.insertApellido{
+    margin: 10px;
+}
+
+.btn{
+    border: none;
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.inputName{
+    height: 25px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    border: none;
+}
+
+.inputApellido{
+    height: 25px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    border: none;
+}
